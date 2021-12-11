@@ -1,39 +1,39 @@
 {
-  "exhibitions" : [ {
-    "id" : 1,
-    "name" : "The Civilisation of Arms and the Courts of the Renaissance",
-    "shortDescription" : "NEW ENTRY",
-    "fullDescription" : "The Museo della Battaglia e di Anghiari hosts an exhibition entitled 'The Civilisation of Arms and the Courts of the Renaissance'. Running from 31 August 2021 until 6 January 2022, it offers visitors a unique opportunity to explore the Renaissance era in Italy, when cruel mercenary captains could return home from their bloody military campaigns to don the garb of enlightened humanists, immersing themselves in the study of literature and philosophy and commisioning sublime works of art while at the same time using art and literature to engage in a different form of competition with rival city lords.",
-    "date" : "From 31/08/2021 to 06/01/2022",
-    "pictureUrl" : "https://www.magentaflorence.com/wp-content/uploads/2020/04/Filippo-Lippi-Uffizi-copy-667x549.jpg"
-  }, {
-    "id" : 2,
-    "name" : "'The Final Seal'. The Stigmata of St. Francis at La Verna from the collections of the Gallerie degli Uffizi",
-    "shortDescription" : "ANNOUNCEMENT",
-    "fullDescription" : "The Pinacoteca Comunale di Castiglion Fiorentino and the Gallerie degli Uffizi trade two masterpieces. To mark the Feast of St. Francis, Italy's patron saint, on 4 October, the Gallerie degli Uffizi and the Pinacoteca Comunale di Castiglion Fiorentino are trading two important paintings depicting the episode of the Stigmata, which Dante calls the final sea (Paradise XI:107).In the context of the exhibition entitled 'The Final Seal. St. Francis Stigmata in La Verna from the collections of the Gallerie degli Uffizi' in Castiglion Fiorentino (2 October 2021 – 6 January 2022), the Uffizi is loaning St. Francis Receiving the Stigmata, a masterpiece painted by Ludovico Cardi, known as Cigoli, in 1596.'",
-    "date" : "From 02/10/2021 to 06/01/2022",
-    "pictureUrl" : "https://i.hurimg.com/i/hdn/75/0x0/618392f24e3fe11b7cd2c219.jpg"
-  }, {
-    "id" : 3,
-    "name" : "Giottesque Painters in the Valdelsa",
-    "shortDescription" : "NEW ENTRY",
-    "fullDescription" : "Two versions of the Madonna and Child juxtaposed for visitors to discover Lippo di Benivieni and the followers of Giotto in the Valdelsa.The great painter Giotto played a crucial and highly influential role throughout the 14th century not only on account of his painting but also thanks to the profilic output of the artists and apprentices involved in his workshops, who then went on in their turn to paint in the churches, courts and castles of the area. The exhibition explores the dissemination of Giotto's style throughout the Valdelsa, an area rich in works by Taddeo Gaddi and other masters who benefited first hand from Giotto's teaching.",
-    "date" : "From 26/09/2021 to 06/01/2022",
-    "pictureUrl" : "https://static01.nyt.com/images/2021/08/19/arts/19uffizi10/merlin_193411209_b303412c-c576-4e9e-8260-4b9beb48be24-superJumbo.jpg"
-  }, {
-    "id" : 4,
-    "name" : "A guest from Vienna. The portrait of Jacopo Strada by Titian",
-    "shortDescription" : "ANNOUNCEMENT",
-    "fullDescription" : "A new illustrious tenant will live in Pitti Palace: the Lombard well-educated antiquarian and scholar from the 16th century, Jacopo Strada, portrayed by Titian. Held in the art collections of the Habsburg family in Brussels and then in Vienna since the 17th century and today among the masterpieces of the Kunsthistorisches Museum in the Austrian capital, the work has been exceptionally loaned to the Uffizi Galleries for the exhibition titled ‘A guest from Vienna. Jacopo Strada by Titian’, set up in the White Hall of Pitti Palace from October 5, 2021 to January 16, 2022.",
-    "date" : "From 05/10/2021 to 16/01/2022",
-    "pictureUrl" : "https://www.italy24news.com/entertainment/content/uploads/2021/05/15/91a5f37587.jpg"
-  }, {
-  "id" : 5,
-    "name" : "Terre degli Uffizi",
-    "shortDescription" : "INSIGHT",
-    "fullDescription" : "CR Firenze Foundation and the Uffizi Galleries working together for a major project to enhance the region’s artistic heritage! It is called “Terre degli Uffizi” – Lands of the Uffizi – and it is the first phase of the plan for a broader knowledge of our artistic treasures promoted in recent months by the Florentine museum with the title of “Uffizi Diffusi”. The five-years project will translate immediately into five exhibitions that fall within the celebrations for the 700th anniversary of the death of Dante Alighieri, while deepening the relationship between the territory and the museum’s collections.",
-    "date" : "From 23/06/2021 to 31/01/2022",
-    "pictureUrl" : "https://www.piccoligrandimusei.it/wp-content/uploads/2021/08/terre_uffizi_anghiari.jpg"
-  }
-  ]
-}
+   "news" : [ {
+     "id" : 1,
+     "name" : "The Uffizi Galleries are enriched with three important paintings received as a gift",
+     "shortDescription" : "NEW ENTRY",
+     "fullDescription" : "Three new artworks are part of the heritage of the Uffizi Galleries. These are the Count Ugolino by Fra’ Arsenio Mascagni, a subject taken from the Divine Comedy which was rarely depicted before the 19th century, the Caravaggesque Liberation of Saint Peter from prison by the Bolognese artist Leonello Spada (active in Emilia, as well as in Rome, Naples and Malta), and the Sicilian countryside on a rainy day by the Sicilian painter Francesco Lojacono, of which the Galleries have never owned any work so far. The arrival of the three paintings is the result of the generosity of the American branch of the ‘Amici degli Uffizi’, the Friends of the Uffizi Gallery, which have recently purchased them on the market to donate them to the Galleries.",
+     "date" : "08.10.2021",
+     "pictureUrl" : "https://amp.italyxp.com/sites/default/files/styles/720x600_amp/public/mediaitalyxp/judith_and_holofernes_artemisia_gentileschi.jpg"
+   }, {
+     "id" : 2,
+     "name" : "52 self-portraits by Italian comic book artists enter the prestigious Uffizi collection",
+     "shortDescription" : "ANNOUNCEMENT",
+     "fullDescription" : "52 self-portraits of some of the most talented comic book artists on the Italian scene will enter the collection of the Uffizi Galleries, Italy. The works - created with different techniques, formats and styles - will be presented at Lucca Comics & Games 2021 from October 8 to November 1 as part of the “Fumetti nei musei | Gli autoritratti degli Uffizi” (Comics in the Museums | Self-portraits of the Uffizi) exhibition, curated by Mattia Morandi and Chiara Palmieri.",
+     "date" : "29/09/2021",
+     "pictureUrl" : "https://news.artnet.com/app/news-upload/2021/05/Foto2-1024x684.jpeg"
+   }, {
+     "id" : 3,
+     "name" : "The canvas, sold at auction, was about to leave Italy",
+     "shortDescription" : "NEW ENTRY",
+     "fullDescription" : "A large painting depicting Saint Paul becomes part of the Uffizi Galleries’ collection. It is a documented work by Pellegrino Tibaldi (1527 or 1530/1531 - 1596) – one of the greatest and most versatile artists of the XVI century, active in Italy and Spain – and of his Milanese pupil Giovanni Pietro Gnocchi (1553 c. - 1609). The canvas was painted by Gnocchi with the supervision of Tibaldi and depicts full figure of Saint Paul, with an monumental architectural background and a desk beside him, at the base of which is inscribed the date 1585. The saint, with a long beard and red and green garments, can be recognized thanks to its traditional attribute, a sword, leaning against the wall.",
+     "date" : "21/09/2021",
+     "pictureUrl" : "https://www.planetware.com/photos-large/I/italy-florence-uffizi-annunciation-by-simone-martini-and-lippo-memmi.jpg"
+   }, {
+     "id" : 4,
+     "name" : "Autumn at the Uffizi Galleries: exhibitions, cultural meetings and live streamings",
+     "shortDescription" : "ANNOUNCEMENT",
+     "fullDescription" : "The busy calendar begins on October 5, with the Portrait of Jacopo Strada by Titian, an absolute masterpiece from the Kunsthistorisches Museum of Vienna, which has rarely been lent: it will be exhibited in the White Hall of Pitti Palace (October 5 – January 16); then there will be the contemporary art exhibition ‘Lost’ by Franco Ionda, still at Pitti Palace, in the corridor of the Angiolini (October 12 – December 12). From October 8 to January 9, the Uffizi will host, in the Niobe Room, a 17th-century painting, which has a very unusual subject for its time: Count Ugolino by Fra’ Arsenio Mascagni, purchased in the last few weeks by the Friends of the Uffizi Galleries and donated to the Florentine museum.",
+     "date" : "02/09/2021",
+     "pictureUrl" : "https://theculturetrip.com/wp-content/uploads/2019/09/mntnpm.jpg"
+   }, {
+   "id" : 5,
+     "name" : "The painting has been long since lost in the USA",
+     "shortDescription" : "INSIGHT",
+     "fullDescription" : "On the occasion of the American Independence Day, the Uffizi Galleries have acquired the sketch of a nineteenth-century painting long believed lost in the USA. It is The Witch of Endor evokes the ghost of Samuel before Saul created in 1814 by the Romantic painter Giuseppe Sabatelli: it is a preparatory work for a painting that the rich landowner Meredith Calhoun, who in those years was travelling in Italy, purchased for his summer residence in Huntsville, Alabama, or for the winter one in New Orleans, Louisiana. The finished painting was sent to the USA: as of today, it has been reported missing, along with two other paintings created by Sabatelli for the same customer in those years, depicting Cornelia.",
+     "date" : "05/08/2021",
+     "pictureUrl" : "https://www.wantedinrome.com/i/preview/storage/uploads/2020/07/ferragni-uffizi.jpg"
+   }
+   ]
+ } 
